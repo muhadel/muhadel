@@ -24,15 +24,14 @@ I'm Mohamed Adel, a Software Development Engineer (SDE) with about 4 years of ex
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-</p>
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"/>
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="95" height="75"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="75" height="75"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache kafka" />
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache kafka" width="95" height="75" />
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="Graphql" />
 </p>
+
+
 
 - Find my profile on [LinkedIn](https://www.linkedin.com/in/muhadel/)
 - Sometimes I leetcode; here's my [Profile](https://leetcode.com/muhadel/) if you're interested
