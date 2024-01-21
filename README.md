@@ -27,7 +27,7 @@ I'm Mohamed Adel, a Software Development Engineer (SDE) with about 4 years of ex
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"  width="90" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache kafka" width="90" height="50" />
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="Graphql" />
+<!--       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="Graphql" /> -->
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="75" height="50"/>
 
 </p>
@@ -35,4 +35,4 @@ I'm Mohamed Adel, a Software Development Engineer (SDE) with about 4 years of ex
 
 
 - Find my profile on [LinkedIn](https://www.linkedin.com/in/muhadel/)
-- Sometimes I leetcode; here's my [Profile](https://leetcode.com/muhadel/) if you're interested
+<!-- - Sometimes I leetcode; here's my [Profile]() if you're interested -->
