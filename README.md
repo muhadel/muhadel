@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mohamed Adel, a Software Development Engineer (SDE) with about 4 years of experience in full-stack development. Usually, I use:
+I'm Mohamed Adel, a Software Development Engineer (SDE) with about 5 years of experience in full-stack development. Usually, I use:
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs"/>
