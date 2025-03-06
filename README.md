@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me  
-I'm a **Software Development Engineer (SDE)** with **6 years of experience** in full-stack development, specializing in building scalable and efficient applications. I have a strong background in **backend development**, cloud infrastructure, and system design. Passionate about problem-solving, optimizing performance, and architecting robust solutions.
+I'm a **Software Development Engineer (SDE)** with **6 years of experience** in full-stack development, specializing in building scalable and efficient applications. I have a strong background in **backend development** and **frontend development**, cloud infrastructure, and system design. Passionate about problem-solving, optimizing performance, and architecting robust solutions.
 
 ---
 
